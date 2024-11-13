@@ -30,10 +30,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_maps_flutter: ^2.2.0
-  flutter_web_plugins:
-    sdk: flutter
-
+  syncfusion_flutter_maps: ^27.1.53
+  intl: ^0.19.0
+  syncfusion_flutter_charts: ^27.1.53
+  http: ^1.2.2
+  font_awesome_flutter: ^10.1.0
+  flutter_svg: ^2.0.10
+  countries_world_map: ^1.3.0
+  google_maps_flutter: ^2.2.3
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -43,6 +47,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.9.2
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -56,6 +61,21 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  assets:
+    - assets/placeholder.png
+    - assets/weather_icons/clear-day.svg
+    - assets/weather_icons/clear-day.svg
+    - assets/weather_icons/partly-cloudy-day.svg
+    - assets/weather_icons/overcast-day.svg
+    - assets/weather_icons/overcast.svg
+    - assets/weather_icons/fog.svg
+    - assets/weather_icons/rain.svg
+    - assets/weather_icons/fog-day.svg
+    - assets/weather_icons/partly-cloudy-day-drizzle.svg
+    - assets/weather_icons/drizzle.svg
+    - assets/weather_icons/thunderstorms-day-rain.svg
+    - assets/weather_icons/snow.svg
+    - assets/weather_icons/thunderstorms-day-snow.svg
 
 
   # The following line ensures that the Material Icons font is
