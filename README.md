@@ -1,16 +1,16 @@
-# test
+# Surf Dashboard
 
-A new Flutter project.
+##  Présentation
 
-## Getting Started
+Le Dashboard pour les surfeurs est une application web interactive destinée aux surfeurs.
+Elle permet de visualiser les conditions météo et océaniques de différents spots de surf à travers le monde.
 
-This project is a starting point for a Flutter application.
+## Fonctionnalités principales
 
-A few resources to get you started if this is your first Flutter project:
+Carte interactive : Pour choisir un spot de surf en cliquant sur la carte.
+Tableau de bord dynamique : Affichage des indicateurs essentiels pour le surf, notamment:
+- Hauteur des vagues
+- Conditions météo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/385d5a0a-8511-4408-9976-008cb49b376d)
