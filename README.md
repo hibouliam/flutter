@@ -1,6 +1,6 @@
 # Surf Dashboard
 
-## Le groupe du projet :
+## Le groupe :
 - Bocquel Mathieu
 - Desmedt Justine
 - Huissoud Liam
